@@ -1,0 +1,14 @@
+{
+ "es_ES-davefx": {
+  "bytes": 13529841,
+  "sha256": "6d476828cdbab119ab5f4099e8ccf2e5d1a4cc7f4450f7d80e88f736eae3de98"
+ },
+ "pt_BR-faber": {
+  "bytes": 13279891,
+  "sha256": "f6faabbc1717791cf7144a74989ddb9c3ad924dac06bd5886b069a8781e93069"
+ },
+ "en_US-ljspeech": {
+  "bytes": 27120393,
+  "sha256": "8958c7395f24d5acd79915edc26780a233a32d90207dd355c3044c580c712b21"
+ }
+}
