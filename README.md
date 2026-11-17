@@ -1,6 +1,6 @@
 # MarkDeck natural voices
 
-Offline voice packs that the [MarkDeck](https://markdeck.app) reader downloads, on request, for its Read aloud feature. Once downloaded, they run entirely on the device; no text or audio leaves it.
+Offline voice packs that the MarkDeck reader downloads, on request, for its Read aloud feature. Once downloaded, they run entirely on the device; no text or audio leaves it.
 
 Each pack is built from the publisher's Piper 1.5 voice ([rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices)):
 - the weights are quantized to int8;
